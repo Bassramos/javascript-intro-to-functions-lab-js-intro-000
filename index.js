@@ -15,6 +15,5 @@ function sayHiToGrandma(sentence) {
       return "I love you, too."
     }
 }   else if (sentence == whisper(sentence)) {
-      return "I can't hear you!" 
+      return "I can't hear you!"
     }
-
