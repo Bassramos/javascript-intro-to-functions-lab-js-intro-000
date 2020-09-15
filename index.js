@@ -16,4 +16,6 @@ function sayHiToGrandma(sentence) {
     }
 } else if (sentence == whisper(sentence)) {
       return "I can't hear you!"
+  } else if (sentence == shout(sentene))) {
+      return "YES INDEED!"
   }
