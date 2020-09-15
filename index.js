@@ -20,5 +20,3 @@ function sayHiToGrandma(sentence) {
     else if (sentence == shout(sentene))) {
       return "YES INDEED!"
     }
-
-
